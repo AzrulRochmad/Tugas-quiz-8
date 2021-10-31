@@ -12,6 +12,7 @@
 ![vscode](https://user-images.githubusercontent.com/91447980/139589719-abc940a4-228c-4b41-88c6-7d65542095ef.png)
 
 #### Konsep 2
+![no 1 konsep 2 - Main](https://user-images.githubusercontent.com/91447980/139590719-2247c563-280f-48a5-81d7-3150c37ff7af.png)
 ![konsep 2](https://user-images.githubusercontent.com/91447980/139589888-bfb38635-95ce-4e77-8256-0b4b76ab20ff.png)
 
 ![konsep 2 sc](https://user-images.githubusercontent.com/91447980/139589885-b61f86bd-efc9-4afa-bbd9-497d390abef4.png)
